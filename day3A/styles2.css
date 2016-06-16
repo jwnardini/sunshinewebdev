@@ -1,0 +1,22 @@
+#odd-movie {
+  color: red;
+}
+#even-movie {
+  color: blue;
+}
+
+.odd-hobby {
+  color: brown;
+}
+
+.even-hobby {
+  color: orange;
+}
+
+.movie-list {
+  background-color: pink;
+}
+
+.hobby-list {
+  background-color: cyan;
+}
